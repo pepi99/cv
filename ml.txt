@@ -1,0 +1,21 @@
+Petar Ulev
+(+359) 884003091
+petar.ulev@gmail.com
+Orlitsa bl 31B, vh B, ap 87, 1330 Sofia (Bulgaria) 
+
+
+I am applying for a programming internship/job because I feel capable of both working and studying in parallel. Ideally, I would like to start with an internship or an introduction into the job and further continue with it. I have will to specialise in a technology, work on real-world projects and solutions, help people implement some idea and turn it into code. In addition, this will also help me financially support myself during my education period.
+
+When it comes to my programming experience, I have learned different technologies, frameworks and programming languages - I am used to Git, usually I use Scrum methodologies when working in a team, my favorite languages (and mostly used for most programming problems I face) are Python and Javascript. I mostly learned Python on my own and have used it for various projects and university assignments - I have developed, together with a friend, a Django application for automating HTTP request to an API, I have made a program to fetch real COVID-19 data and turn into into graphs showing deaths, infections and recoveries in a intuitive manner. I have written and trained various machine learning models and algorithms in Python, such as artificial feedforward neural network with backpropagation, perceptron, linear regression, ant-colony optimization, swarm intelligence, dimensionality reduction (principal component analysis) and others. I first learned Javascript from the university course Web and database technology which sparked my interest in web development. I have now written various websites in Node.js, usually with some external database for storage and Vue.js for serving the frontend. I created a website for displaying the coronavirus data as described above for my Python project, but it is accessible to the network. Recently, I had a Software Project as a university course which aimed at bacterial strain identification. Me together with 4 more fellow students created a Dockerized container to make this data analysis possible. We used Node.js for the backend, Vue.js for the frontend and an external MongoDB. I have also learned and used Java, Scala and C++.
+
+I am mostly interested in machine learning and web development. Fitting mathematical models into data or analysing it by means of some intuitive strategy, such as the human brain, turns out to be extremely efficient and solves a huge amount if problems which likely have no evident direct solution (by non-learning algorithm). I like to write, train and develop these models for specific problems. Web development is also an area of interest for me - it is what I like to do in my free time.
+I am applying for a programming internship/job because I feel capable of both working and studying in parallel. Ideally, I would like to start with an internship or an introduction into the job and further continue with it. I have will to specialise in a technology, work on real-world projects and solutions, help people implement some idea and turn it into code. In addition, this will also help me financially support myself during my education period.
+
+I want to gain deeper knowledge on the two topics, I also want to help people solve a real-world problem by means of code. 
+
+Yours sincerely,
+Petar
+
+
+
+
